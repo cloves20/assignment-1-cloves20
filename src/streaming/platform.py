@@ -205,5 +205,6 @@ class StreamingPlatform:
                 results.append((user, completed))
 
         return results
+    
 
 
